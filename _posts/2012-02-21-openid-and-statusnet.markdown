@@ -6,6 +6,8 @@ tags:
 - status.net
 ---
 
+**EDIT**: *This post is still marginally relevant to OpenID in general, but the status.net instance in question is defunct.*
+
 Today I discovered something cool about status.net, that I hadn't known before. Namely, that you can delegate your [OpenID][1] to it. I already had an OpenID identity referenced in my site, but it delegated to Google, which had two problems:
 
  - It wasn't linked to any one account, so services I logged into would tend get confused if I was logged into a different Google account.
